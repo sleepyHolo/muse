@@ -70,6 +70,7 @@ bool Note::play_note(unsigned short note, unsigned short velocity, unsigned shor
 
 class Tracks
     //声明固定数量的音轨并进行管理
+    // well, i agree that this class is useless. please do not use it.
 {
 public:
     Tracks();
